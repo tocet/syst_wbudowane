@@ -1,0 +1,2 @@
+https://github.com/tocet/syst_wbudowane
+https://micropython.org/download/RPI_PICO/
